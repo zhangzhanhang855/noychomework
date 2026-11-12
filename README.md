@@ -122,8 +122,8 @@ access-control-allow-credentials: true
 |---|---|---|
 | `memberId` | `202507040220586404` | 学员 ID，后续必用 |
 | `loginCode` | `d8c57c94-bf7c-4218-a6df-ccb349...` | 一次性登录码，**有时效，需立即换取 token** |
-| `firstName` | `孔令泽` | 姓名 |
-| `className` | `八年级10班` | 班级 |
+| `firstName` | `王明` | 姓名 |
+| `className` | `八年级1班` | 班级 |
 | `schoolName` | `杭州育才中学` | 学校 |
 | `memType` | `1` | 1=学生，其他为教师/家长 |
 | `loginTime` | `1794146693000` | 上次登录时间 |
